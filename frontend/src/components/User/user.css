@@ -1,0 +1,26 @@
+.formContainer {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.inputbox {
+  width: 200px;
+  height: 20px;
+  border-radius: 20px;
+  padding: 4px 10px;
+}
+
+.formStyle {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.submitBtn {
+  width: 100px;
+  height: 30px;
+  border-radius: 20px;
+}
